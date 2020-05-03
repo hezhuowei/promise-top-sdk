@@ -1,5 +1,5 @@
 {
-  "name": "taobao-top-sdk",
+  "name": "promise-top-sdk",
   "version": "1.0.0",
   "description": "淘宝TOP(Taobao Open Platform)SDK",
   "main": "./dist/index.js",
