@@ -1,0 +1,35 @@
+{
+  "name": "taobao-top-sdk",
+  "version": "1.0.0",
+  "description": "淘宝TOP(Taobao Open Platform)SDK",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "taobao",
+    "top-sdk",
+    "top",
+    "ali-sdk",
+    "open api",
+    "top client"
+  ],
+  "author": "harold",
+  "license": "WTFPL",
+  "dependencies": {
+    "@types/form-data": "^2.5.0",
+    "@types/moment": "^2.13.0",
+    "@types/node": "^13.13.4",
+    "agentkeepalive": "^4.1.2",
+    "axios": "^0.19.2",
+    "form-data": "^3.0.0",
+    "moment": "^2.25.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.30.0",
+    "@typescript-eslint/parser": "^2.30.0",
+    "eslint": "^6.8.0",
+    "typescript": "^3.8.3"
+  }
+}
