@@ -11,7 +11,7 @@ interface ClientOption {
   retries?: number;
   retryDelay?: number;
   retryCondition?: (res: AxiosResponse<any>) => boolean;
-  simplify: boolean;
+  simplify?: boolean;
 }
 interface ClientParam {
   [key: string]: any;
