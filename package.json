@@ -1,6 +1,6 @@
 {
   "name": "promise-top-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "淘宝TOP(Taobao Open Platform)SDK",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -40,5 +40,5 @@
   "bugs": {
     "url": "https://github.com/hezhuowei/promise-top-sdk/issues",
     "email": "hezhuowei@126.com"
-  } 
+  }
 }
