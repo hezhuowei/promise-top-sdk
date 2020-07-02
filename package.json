@@ -21,7 +21,7 @@
     "agentkeepalive": "^4.1.2",
     "axios": "^0.19.2",
     "form-data": "^3.0.0",
-    "moment": "^2.25.1"
+    "moment": "^2.26.0"
   },
   "devDependencies": {
     "@types/form-data": "^2.5.0",
