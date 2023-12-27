@@ -19,7 +19,7 @@
   "license": "WTFPL",
   "dependencies": {
     "agentkeepalive": "^4.2.1",
-    "axios": "^0.21.3",
+    "axios": "^1.6.3",
     "form-data": "^3.0.1",
     "moment": "^2.29.2"
   },
